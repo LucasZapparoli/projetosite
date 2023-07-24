@@ -9,11 +9,17 @@ body {
 
 main {
     background-color: #fff;
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rosybrown(0, 0, 0, 0.473);
 }
+
 img{
     width: 100px;
 }
+
+img.lado{
+    float: right;
+}
+ 
